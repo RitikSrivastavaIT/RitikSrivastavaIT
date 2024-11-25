@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Welcome to my odyssey:      
-- 💻 I use daily: **.js**, **.java**, **.sql**
+- 💻 I use daily: **.java**, **.sql**, **.js**, 
 - 📖 I am currently reading **Manifest** by Roxie Nafousi
 - 💬 Talk to me about Music, Java, Stocks
 - 👯 We can connect to play some games of Chess ♟
